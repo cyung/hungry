@@ -1,0 +1,8 @@
+{
+  "commands": {
+    "feed": {
+      "run": "node",
+      "path": "feed.js"
+    }
+  }
+}
